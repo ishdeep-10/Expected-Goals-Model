@@ -57,7 +57,7 @@ For now I have considered only 2 parameters and plotted the histogram :
 ![](images/GeneralModel.png)<br>
 
 ### Measuring Performance
-R2 Score : 0.14
+R2 Score : 0.14 <br>
 ROC Curve (Whether the shot was a goal or not)
 ![](images/ROC.png)<br>
 
